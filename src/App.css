@@ -4,7 +4,11 @@
   padding: 2rem;
   text-align: center;
 }
-
+canvas{
+  position: fixed;
+  top: 0;
+  left: 0;
+}
 .logo {
   height: 6em;
   padding: 1.5em;
